@@ -1,0 +1,163 @@
+Partner,Product,2015,2016,2017,2018,2019,2020,2021,2022,Period_Change,Reporter Code,Partner_Code,Product_Code
+Canada,Sunflowerseed Oil,28900,29512,25599,28715,30183,34075,51439,65922,28,US,CA,0227AT
+Canada,Palm Oil,6215,8385,16289,12733,4102,3721,4242,10349,144,US,CA,0216AT
+Canada,Olive Oil,10442,12864,10986,10664,6305,2779,3301,2661,-19,US,CA,0217AT
+Mexico,Sunflowerseed Oil,4046,9974,5639,15641,17450,9137,12586,12491,-1,US,MX,0227AT
+Mexico,Olive Oil,5755,3919,4987,5707,3701,2432,3095,4162,34,US,MX,0217AT
+Mexico,Palm Oil,8445,5594,5150,1244,939,462,782,1864,138,US,MX,0216AT
+South Korea,Sunflowerseed Oil,23,184,146,193,883,2485,2774,4821,74,US,KS,0227AT
+South Korea,Olive Oil,231,45,142,144,277,599,546,302,-45,US,KS,0217AT
+South Korea,Palm Oil,40,46,0,0,29,0,0,4,US,KS,0216AT
+Taiwan,Sunflowerseed Oil,943,895,1218,1261,1082,1085,1214,1816,50,US,TW,0227AT
+Taiwan,Olive Oil,573,456,1803,159,38,244,270,277,US,TW,0217AT
+Honduras,Sunflowerseed Oil,491,1059,915,1022,471,139,604,1224,103,US,HO,0227AT
+Honduras,Olive Oil,58,332,192,67,52,27,120,81,-33,US,HO,0217AT
+Honduras,Palm Oil,0,16,102,79,19,6,0,0,US,HO,0216AT
+United Kingdom,Olive Oil,16,18,16,56,28,21,30,1,112,3,575,US,UK,0217AT
+United Kingdom,Sunflowerseed Oil,0,11,10,0,67,78,92,46,-50,US,UK,0227AT
+United Kingdom,Palm Oil,6,0,0,5,0,118,0,0,US,UK,0216AT
+Senegal,Sunflowerseed Oil,0,0,0,0,0,0,245,751,207,US,SG,0227AT
+Netherlands,Sunflowerseed Oil,123,198,121,148,44,128,199,565,184,US,NL,0227AT
+Netherlands,Olive Oil,20,0,26,185,14,3059,3810,28,-99,US,NL,0217AT
+Netherlands,Palm Oil,13,16,5,7,0,0,0,0,US,NL,0216AT
+Japan,Sunflowerseed Oil,4282,4225,3228,667,622,443,1258,346,-73,US,JA,0227AT
+Japan,Olive Oil,344,574,621,127,207,114,62,108,74,US,JA,0217AT
+Japan,Palm Oil,321,856,775,1299,894,1247,6,58,864,US,JA,0216AT
+Panama,Olive Oil,110,384,437,588,470,649,1754,278,-84,US,PM,0217AT
+Panama,Palm Oil,0,0,29,84,0,101,5,-95,US,PM,0216AT
+Panama,Sunflowerseed Oil,0,23,223,0,0,0,0,0,US,PM,0227AT
+Haiti,Olive Oil,90,127,9,219,45,73,272,271,US,HA,0217AT
+Haiti,Palm Oil,86,1588,0,549,0,0,0,0,US,HA,0216AT
+Haiti,Sunflowerseed Oil,0,0,0,0,0,0,0,US,HA,0227AT
+Hong Kong,Olive Oil,273,172,179,47,75,55,93,254,173,US,HK,0217AT
+Hong Kong,Palm Oil,0,0,0,0,4,0,0,US,HK,0216AT
+Hong Kong,Sunflowerseed Oil,0,0,32,4,0,0,0,US,HK,0227AT
+Ecuador,Olive Oil,16,24,52,96,54,27,103,212,106,US,EC,0217AT
+Ecuador,Sunflowerseed Oil,0,151,0,0,0,0,10,29,194,US,EC,0227AT
+Ecuador,Palm Oil,0,0,0,13,0,31,0,0,US,EC,0216AT
+Kyrgyzstan,Sunflowerseed Oil,78,0,59,80,0,149,0,153,US,KG,0227AT
+China,Sunflowerseed Oil,187,333,233,27,55,220,146,117,-20,US,CH,0227AT
+China,Olive Oil,26,24,111,111,99,430,24,34,45,US,CH,0217AT
+China,Palm Oil,68,0,0,0,0,0,US,CH,0216AT
+Venezuela,Olive Oil,9,94,69,70,231,174,28,134,373,US,VE,0217AT
+Venezuela,Palm Oil,0,25,7,7,0,0,3,150,5,-100,US,VE,0216AT
+Venezuela,Sunflowerseed Oil,0,44,0,0,0,0,0,0,US,VE,0227AT
+Italy(*),Olive Oil,135,420,286,110,357,62,227,130,-43,US,IT,0217AT
+Italy(*),Palm Oil,0,0,0,0,0,0,0,US,IT,0216AT
+Italy(*),Sunflowerseed Oil,36,0,228,39,85,104,116,0,US,IT,0227AT
+Spain,Sunflowerseed Oil,0,0,0,0,0,95,419,118,-72,US,SP,0227AT
+Spain,Olive Oil,10,351,31,109,79,263,119,-98,US,SP,0217AT
+Nicaragua,Olive Oil,187,159,81,55,55,48,29,109,274,US,NU,0217AT
+Nicaragua,Palm Oil,0,13,0,0,6,0,19,0,US,NU,0216AT
+Nicaragua,Sunflowerseed Oil,48,0,7,0,0,0,0,0,US,NU,0227AT
+Indonesia,Sunflowerseed Oil,38,13,37,7,56,56,130,81,-38,US,ID,0227AT
+Indonesia,Palm Oil,0,0,26,62,39,8,4,15,273,US,ID,0216AT
+Indonesia,Olive Oil,0,0,4,0,19,0,0,12,US,ID,0217AT
+Brazil,Sunflowerseed Oil,0,12,65,24,27,20,89,98,10,US,BR,0227AT
+Brazil,Palm Oil,0,56,0,0,0,0,0,US,BR,0216AT
+Brazil,Olive Oil,99,0,21,11,14,0,0,0,US,BR,0217AT
+Colombia,Olive Oil,309,727,389,120,108,456,23,57,144,US,CO,0217AT
+Colombia,Sunflowerseed Oil,10,483,2304,27,55,131,47,29,-39,US,CO,0227AT
+Colombia,Palm Oil,0,0,0,53,4,0,0,US,CO,0216AT
+Guatemala,Olive Oil,157,185,182,185,368,70,26,81,216,US,GT,0217AT
+Guatemala,Palm Oil,0,0,0,9,11,4,0,0,US,GT,0216AT
+Guatemala,Sunflowerseed Oil,0,0,11,0,0,0,0,0,US,GT,0227AT
+Saudi Arabia,Olive Oil,143,6,37,45,36,21,45,75,67,US,SA,0217AT
+Saudi Arabia,Palm Oil,0,0,63,23,5,0,0,0,US,SA,0216AT
+Saudi Arabia,Sunflowerseed Oil,0,0,6,0,0,0,0,0,US,SA,0227AT
+Vietnam,Olive Oil,4,0,7,61,71,33,31,-5,US,VM,0217AT
+Vietnam,Sunflowerseed Oil,892,975,850,1251,1057,200,0,20,US,VM,0227AT
+Vietnam,Palm Oil,0,62,0,0,19,0,0,16,US,VM,0216AT
+Cuba,Olive Oil,0,0,0,0,0,5,9,66,664,US,CU,0217AT
+France(*),Palm Oil,0,0,0,4,32,0,40,1,127,US,FR,0216AT
+France(*),Olive Oil,0,0,0,0,0,54,0,11,US,FR,0217AT
+France(*),Sunflowerseed Oil,52,0,0,0,0,14,0,10,US,FR,0227AT
+Morocco,Olive Oil,0,328,75,0,0,0,0,51,US,MO,0217AT
+New Zealand(*),Olive Oil,5,0,0,0,44,50,14,US,NZ,0217AT
+New Zealand(*),Sunflowerseed Oil,15,0,0,14,44,84,0,US,NZ,0227AT
+Chile,Palm Oil,0,0,0,0,0,0,17,48,191,US,CI,0216AT
+Chile,Olive Oil,543,50,64,314,365,113,158,0,US,CI,0217AT
+Chile,Sunflowerseed Oil,75,0,0,0,0,0,0,US,CI,0227AT
+Thailand,Palm Oil,0,0,30,0,0,48,139,22,-84,US,TH,0216AT
+Thailand,Olive Oil,107,43,44,44,36,4,5,21,293,US,TH,0217AT
+Thailand,Sunflowerseed Oil,21,15,9,109,119,76,32,0,US,TH,0227AT
+Uruguay,Sunflowerseed Oil,0,7,575,14,13,29,35,41,19,US,UY,0227AT
+Uruguay,Olive Oil,11,0,4,0,0,0,0,US,UY,0217AT
+Costa Rica,Palm Oil,0,11,19,0,17,0,10,29,196,US,CS,0216AT
+Costa Rica,Olive Oil,429,525,394,348,458,52,47,11,-77,US,CS,0217AT
+Costa Rica,Sunflowerseed Oil,245,64,7,220,0,0,6,0,US,CS,0227AT
+Philippines,Olive Oil,161,235,238,171,26,80,59,38,-35,US,RP,0217AT
+Philippines,Sunflowerseed Oil,0,0,0,48,1,230,0,5,0,US,RP,0227AT
+India,Olive Oil,42,19,5,38,7,16,5,31,508,US,IN,0217AT
+India,Sunflowerseed Oil,0,32,12,99,317,278,127,5,-96,US,IN,0227AT
+Peru,Sunflowerseed Oil,0,0,4,11,33,16,17,30,77,US,PE,0227AT
+Peru,Olive Oil,24,21,31,22,22,62,18,6,-67,US,PE,0217AT
+Nigeria,Olive Oil,0,12,0,0,4,33,22,667,US,NI,0217AT
+Nigeria,Palm Oil,0,0,0,0,0,5,6,4,-29,US,NI,0216AT
+Nigeria,Sunflowerseed Oil,5,0,0,0,0,0,0,0,US,NI,0227AT
+Argentina,Palm Oil,0,0,0,0,0,0,0,17,US,AR,0216AT
+Argentina,Olive Oil,0,0,0,4,0,0,7,US,AR,0217AT
+Argentina,Sunflowerseed Oil,0,0,0,30,358,0,0,0,US,AR,0227AT
+Iceland,Sunflowerseed Oil,0,0,17,0,0,14,0,14,US,IC,0227AT
+Iceland,Olive Oil,0,5,0,8,0,0,0,US,IC,0217AT
+Germany(*),Sunflowerseed Oil,0,0,4,17,4,821,4,0,14,US,GM,0227AT
+Germany(*),Palm Oil,0,0,0,0,0,13,0,0,US,GM,0216AT
+Germany(*),Olive Oil,10,29,18,18,0,0,0,0,US,GM,0217AT
+Austria,Sunflowerseed Oil,0,0,0,0,0,0,0,4,US,AU,0227AT
+Austria,Olive Oil,0,0,0,0,7,0,0,0,US,AU,0217AT
+Singapore,Sunflowerseed Oil,107,15,75,36,301,0,4,US,SN,0227AT
+Singapore,Palm Oil,0,0,0,8,0,0,US,SN,0216AT
+Singapore,Olive Oil,89,10,33,232,15,12,4,0,US,SN,0217AT
+Denmark(*),Palm Oil,0,0,103,0,0,0,0,4,US,DA,0216AT
+Denmark(*),Olive Oil,0,0,0,0,0,0,0,US,DA,0217AT
+South Africa,Sunflowerseed Oil,0,9,0,0,0,0,0,US,SF,0227AT
+South Africa,Palm Oil,0,0,0,0,0,9,0,0,US,SF,0216AT
+South Africa,Olive Oil,0,0,0,7,6,0,0,0,US,SF,0217AT
+United Arab Emirates,Olive Oil,34,34,166,61,163,50,54,-95,US,AE,0217AT
+United Arab Emirates,Palm Oil,0,0,0,14,0,0,0,0,US,AE,0216AT
+United Arab Emirates,Sunflowerseed Oil,0,0,0,0,7,0,0,0,US,AE,0227AT
+Malaysia,Sunflowerseed Oil,0,45,1444,8750,1694,177,-98,US,MY,0227AT
+Malaysia,Palm Oil,0,0,0,0,0,402,4,0,US,MY,0216AT
+Malaysia,Olive Oil,0,14,0,0,0,4,0,US,MY,0217AT
+Albania,Sunflowerseed Oil,0,0,0,5,0,0,0,0,US,AL,0227AT
+Bahrain,Olive Oil,7,0,13,10,37,0,0,US,BA,0217AT
+Cameroon,Palm Oil,0,0,0,0,0,0,19,0,US,CM,0216AT
+Cameroon,Olive Oil,0,0,0,0,0,0,0,US,CM,0217AT
+Egypt,Sunflowerseed Oil,0,0,13,0,0,0,0,0,US,EG,0227AT
+Ireland,Olive Oil,0,0,0,0,0,0,177,0,US,EI,0217AT
+Ireland,Sunflowerseed Oil,0,4,0,4,0,4,0,US,EI,0227AT
+Finland,Palm Oil,13,0,0,0,0,0,0,0,US,FI,0216AT
+Georgia,Olive Oil,8,0,0,0,0,0,0,0,US,GG,0217AT
+Ghana,Olive Oil,0,0,0,0,6,5,0,0,US,GH,0217AT
+Greece,Olive Oil,4,0,0,0,0,365,0,US,GR,0217AT
+Israel(*),Palm Oil,0,0,0,8,0,0,0,0,US,IS,0216AT
+Israel(*),Olive Oil,303,361,561,325,253,478,769,0,US,IS,0217AT
+Israel(*),Sunflowerseed Oil,0,0,29,0,0,0,0,0,US,IS,0227AT
+Iraq,Olive Oil,0,57,7,19,0,0,0,0,US,IZ,0217AT
+Jordan,Palm Oil,0,0,23,30,0,0,0,0,US,JO,0216AT
+Jordan,Sunflowerseed Oil,0,39,0,0,0,0,0,0,US,JO,0227AT
+Kenya,Olive Oil,0,0,5,0,0,0,0,0,US,KE,0217AT
+Kuwait,Olive Oil,24,22,29,17,35,0,0,0,US,KU,0217AT
+Lebanon,Olive Oil,0,14,0,0,5,0,60,0,US,LE,0217AT
+Latvia,Sunflowerseed Oil,0,241,0,0,0,0,0,0,US,LG,0227AT
+Lithuania,Olive Oil,0,0,0,0,0,0,0,US,LH,0217AT
+Liberia,Palm Oil,0,9,0,0,0,0,0,0,US,LI,0216AT
+Liberia,Olive Oil,0,0,0,0,11,0,0,0,US,LI,0217AT
+Paraguay,Olive Oil,6,0,0,0,32,0,0,0,US,PA,0217AT
+Pakistan,Olive Oil,4,0,31,35,21,0,0,0,US,PK,0217AT
+Pakistan,Sunflowerseed Oil,0,0,8,0,0,0,0,0,US,PK,0227AT
+Poland,Olive Oil,15,7,81,0,35,80,22,0,US,PL,0217AT
+Poland,Sunflowerseed Oil,0,0,0,0,6,0,0,0,US,PL,0227AT
+Portugal,Olive Oil,0,0,2821,597,0,0,0,US,PO,0217AT
+Portugal,Sunflowerseed Oil,0,0,0,0,19,0,0,0,US,PO,0227AT
+Qatar,Palm Oil,0,11,0,0,0,0,0,0,US,QA,0216AT
+Qatar,Olive Oil,0,0,14,23,0,0,0,US,QA,0217AT
+Russia,Olive Oil,0,0,0,0,0,0,4,0,US,RS,0217AT
+Sierra Leone,Olive Oil,156,230,82,0,0,0,0,US,SL,0217AT
+Sweden,Olive Oil,0,0,0,5,0,0,0,0,US,SW,0217AT
+Switzerland(*),Olive Oil,0,0,0,20,0,0,0,0,US,SZ,0217AT
+Switzerland(*),Sunflowerseed Oil,0,0,0,0,6,0,0,0,US,SZ,0227AT
+Tunisia,Olive Oil,519,287,264,800,0,0,0,0,US,TS,0217AT
+Turkey,Olive Oil,0,0,0,0,190,0,6,0,US,TU,0217AT
+Turkey,Sunflowerseed Oil,0,0,0,0,19,0,0,0,US,TU,0227AT
+Tanzania,Sunflowerseed Oil,67,0,116,184,0,0,0,0,US,TZ,0227AT
